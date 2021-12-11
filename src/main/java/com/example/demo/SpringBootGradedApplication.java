@@ -8,7 +8,7 @@ public class SpringBootGradedApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGradedApplication.class, args);
-		System.out.println("graded");
+		System.out.println("Hello Dev-Ops");
 	}
 
 }
